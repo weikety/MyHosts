@@ -1,5 +1,6 @@
 #version=20170919 046
-#url=https://github.com/vokins/yhosts
+#url=https://github.com/weikety/MyHosts
+#soft url=https://raw.githubusercontent.com/weikety/MyHosts/master/hosts
 127.0.0.1 localhost
 ::1             ip6-localhost
 127.0.0.1 XiaoQiang
